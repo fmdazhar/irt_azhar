@@ -1,0 +1,12 @@
+# Build artefacts
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+*.o
+*.a
+*.so
+
+# IDE metadata
+.idea/
+.vscode/
