@@ -10,3 +10,15 @@
 # IDE metadata
 .idea/
 .vscode/
+
+
+*~
+*.pyc
+
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+
+include/qp_solver_collection/QpSolverOptions.h
+cmake/qp_solver_options.cmake
